@@ -1,0 +1,1 @@
+exports.secterKey = "3jd@n3j2$#kd3@!&*^$)(#Qklsdn324nd";
